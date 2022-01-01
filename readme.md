@@ -1,0 +1,2 @@
+- Hello !
+- :seedling: Currently learning: C#, python, shell scripting.
