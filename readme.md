@@ -1,2 +1,1 @@
-- Hello !
-- :seedling: Currently learning: C#
+- :seedling: Currently learning
