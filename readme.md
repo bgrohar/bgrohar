@@ -1,3 +1,3 @@
 :seedling:
 
-!(https://i.imgur.com/ZKoXoZn.png)
+![](https://i.imgur.com/ZKoXoZn.png)
